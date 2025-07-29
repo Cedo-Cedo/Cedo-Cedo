@@ -2,6 +2,55 @@
 
 'Desenvolvedor FullStack'
 
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+.
     <a href="https://github.com/Cedo-Cedo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
