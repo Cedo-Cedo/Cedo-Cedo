@@ -129,11 +129,21 @@
 
    <img   
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Tailwind" 
+    title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+      
+   <img    
+     align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+          
 
 <br/>
 <br/>
