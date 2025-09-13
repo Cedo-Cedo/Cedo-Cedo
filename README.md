@@ -149,7 +149,11 @@
 
 
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+   <img   
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
           
           
 
