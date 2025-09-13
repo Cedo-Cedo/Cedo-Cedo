@@ -139,9 +139,9 @@
 
  <img
         align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
+    alt="Node.js" 
+    title="Node.js"
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
           
