@@ -147,4 +147,10 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedo-Cedo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          
+          
+
 </p>
