@@ -145,7 +145,15 @@
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
          
-          
+
+ <img  
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://github.com/user-attachments/assets/8eab6ece-099c-48d3-a8d6-810b01a5e3d3" />
+     
           
 
          
