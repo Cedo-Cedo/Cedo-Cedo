@@ -139,12 +139,7 @@
  
 
    <i 
-       align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-       class="devicon-express-original"></i>
+class="devicon-express-original"></i>
           
           
           
